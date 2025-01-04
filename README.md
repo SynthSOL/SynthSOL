@@ -103,6 +103,6 @@ With this release, you can:
 ## Support and Contributions
 
 For support, open an issue on GitHub or contact `solsynthtoken@example.com`. Contributions are welcome! Fork the repository and submit a pull request for new features, bug fixes, or improvements.
-
+Follow us on twitter! https://x.com/sol_synth
 
 
