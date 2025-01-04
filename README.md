@@ -28,7 +28,7 @@ Before installing, ensure you have:
 ### Installing Synth Framework
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SynthSOL/synthSOL.git
+   git clone https://github.com/SynthSOL/SynthSOL.git
    cd synth-framework
    ```
 
@@ -103,6 +103,58 @@ With this release, you can:
 ## Support and Contributions
 
 For support, open an issue on GitHub or contact `solsynthtoken@example.com`. Contributions are welcome! Fork the repository and submit a pull request for new features, bug fixes, or improvements.
-Follow us on twitter! https://x.com/sol_synth
+
+## PumpFun Token Integration
+
+**Planned Token Integration with the Synth Framework**
+
+The upcoming **PumpFun Token (PFT)** launch will be integrated with the Synth Framework to enhance tokenized AI interactions and provide new utility for developers and users. PumpFun Token is designed to facilitate and incentivize AI operations within the Synth ecosystem.
+
+---
+
+## Features of PumpFun Token Integration
+
+1. **Tokenized AI Queries**
+   - Use PumpFun Tokens to pay for AI model interactions.
+   - Enjoy discounted rates for AI queries when using PFT.
+
+2. **Incentivized Data Sharing**
+   - Reward users with PFT for contributing high-quality datasets to the training data marketplace.
+
+3. **On-Chain Staking**
+   - Stake PumpFun Tokens to gain premium access to AI features and priority query processing.
+
+4. **Marketplace Transactions**
+   - Use PumpFun Tokens for transactions within the training data marketplace, enabling a seamless ecosystem.
+
+---
+
+## Roadmap for Integration
+
+- **Q1 2025:** Initial PumpFun Token launch with basic utility for tokenized AI queries.
+- **Q2 2025:** Introduce staking mechanisms and incentivized data sharing.
+- **Q3 2025:** Full marketplace integration for data and model transactions.
+
+---
+
+## Example Usage
+
+After PumpFun Token integration, developers can use the Synth Framework with PFT:
+
+```python
+response = framework.execute_AI_query(
+    model_id="example-model",
+    query_payload={"prompt": "Generate text based on Solana."},
+    token_address="PumpFunTokenAddress",
+    user_keypair_path="path/to/user-keypair.json"
+)
+print(f"AI Response: {response}")
+```
+
+---
+
+## Stay Updated
+
+For updates on the PumpFun Token launch and integration, visit our GitHub or contact us at `solsynthtoken@example.com`.
 
 
