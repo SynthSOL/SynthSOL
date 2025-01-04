@@ -28,7 +28,7 @@ Before installing, ensure you have:
 ### Installing Synth Framework
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/synth-framework.git
+   git clone https://github.com/SynthSOL/synthSOL.git
    cd synth-framework
    ```
 
