@@ -1,4 +1,4 @@
-## Hi there 👋
+A Solana-based AI framework designed for developers to integrate and deploy decentralized AI solutions directly on-chain. The framework focuses on high-speed, low-cost interactions suitable for real-time AI applications, leveraging Solana's scalability.
 
 <!--
 **SynthSOL/SynthSOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
