@@ -14,5 +14,5 @@ Tokenized Query System: Pay-per-query using $SOL or SPL tokens for flexible and 
 Decentralized Data Oracle: Feed real-time, verified data into AI models on-chain.
 Training Data Marketplace: Facilitate data sharing and monetization within the ecosystem.
 Seamless Integration: Designed for developers to build, test, and deploy effortlessly.
-**SynthSOL/SynthSOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
